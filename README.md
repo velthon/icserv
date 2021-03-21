@@ -1,2 +1,2 @@
-# mvc
+# ICS
 GitHub Pages
